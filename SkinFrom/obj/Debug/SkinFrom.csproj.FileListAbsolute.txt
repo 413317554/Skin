@@ -1,0 +1,9 @@
+E:\代码\SkinFrom\SkinFrom\bin\Debug\SkinFrom.exe
+E:\代码\SkinFrom\SkinFrom\bin\Debug\SkinFrom.pdb
+E:\代码\SkinFrom\SkinFrom\obj\Debug\SkinFrom.csprojResolveAssemblyReference.cache
+E:\代码\SkinFrom\SkinFrom\obj\Debug\SkinFrom.Controls.SkinButton.resources
+E:\代码\SkinFrom\SkinFrom\obj\Debug\SkinFrom.Properties.Resources.resources
+E:\代码\SkinFrom\SkinFrom\obj\Debug\SkinFrom.csproj.GenerateResource.Cache
+E:\代码\SkinFrom\SkinFrom\obj\Debug\SkinFrom.exe
+E:\代码\SkinFrom\SkinFrom\obj\Debug\SkinFrom.pdb
+E:\代码\SkinFrom\SkinFrom\obj\Debug\SkinFrom.Form1.resources
